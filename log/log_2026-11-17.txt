@@ -392,3 +392,102 @@ P.Mon.Epiph. 271
 8.- ϩⲩⲃⲣⲓⲍⲉ ⲙ̄ⲙⲟ ⲓ(¨) ⲁ ⲓ(¨)ⲧⲁⲁⲥ ⲛⲁ[ϥ]
 9. ⲟⲛ ⲛ̄ⲧⲉⲩⲛⲟⲩ ϯⲡⲁⲣⲁⲕⲁ
 10.- ⲗⲉⲓ ⲟⲩⲛ ⲛ̄ⲧⲉⲕⲙⲛ̄ⲧ̄ϫⲟ
+-----------------------------------
+    
+Current Version:
+	0.1.1beta Pre-Papyri
+	03/04/2025
+	Corvin Ziegeler 
+processing: 
+    	PMonEpiph_305-309_2024-12-20.txt
+time:
+    	2026-11-17T15:46:11
+warnings: 
+    
+-----------------------------------
+        
+
+
+
+----------
+Simple Substitutions
+----------
+
+
+P.Mon.Epiph. 305
+*rho-cross* ⲁⲣⲓ ⲡⲉⲛ̄ⲙⲉⲉⲩⲉ
+ϩ̄ⲛ̄ⲛⲉⲕϣⲗⲏⲗ
+ⲉⲓⲥ ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ
+ⲁϥⲉⲓ ⲉϥϣⲓⲛⲉ ⲛ̄ⲥⲁⲡϫⲱⲕ
+5
+ⲛ̄ⲛ̄ⲥⲟⲩⲟ ⲉⲓⲥ ϯⲟⲩ ⲛ̄ⲉⲣⲧⲁⲃ ⲥⲟⲩⲟ
+ⲙ̄ⲛ̣̄ⲥ̄ⲛ̄ⲧⲉ ⲁⲩⲁϩⲉ ⲉⲣⲁⲧⲟⲩ
+ⲁ ⲓ(¨)ϯ ϥⲧⲟⲉ*word-sep-apostrophe* ⲛ̄ϭⲓϫ ⲉⲩⲟ*word-sep-apostrophe* ⲛ̄ϯⲉ
+ⲙ̄ⲙⲁϫⲉ ⲉⲥ ⲕⲉⲥⲁϣ̄ⲥ̄ ⲟⲛ*word-sep-apostrophe*
+ⲛ̣̄ϭⲓϫ ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apostrophe* ⲉⲩⲟ
+
+P.Mon.Epiph. 110
+ⲛ̄ⲟⲩⲁⲡⲉ ⲉⲥ ⲕⲉϣⲟⲙⲧⲉ
+ϭⲓϫ ⲟⲛ*word-sep-apostrophe* ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apos
+
+----------
+Moving Hyphens
+----------
+
+
+P.Mon.Epiph. 305
+*rho-cross* ⲁⲣⲓ ⲡⲉⲛ̄ⲙⲉⲉⲩⲉ
+ϩ̄ⲛ̄ⲛⲉⲕϣⲗⲏⲗ
+ⲉⲓⲥ ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ
+ⲁϥⲉⲓ ⲉϥϣⲓⲛⲉ ⲛ̄ⲥⲁⲡϫⲱⲕ
+5
+ⲛ̄ⲛ̄ⲥⲟⲩⲟ ⲉⲓⲥ ϯⲟⲩ ⲛ̄ⲉⲣⲧⲁⲃ ⲥⲟⲩⲟ
+ⲙ̄ⲛ̣̄ⲥ̄ⲛ̄ⲧⲉ ⲁⲩⲁϩⲉ ⲉⲣⲁⲧⲟⲩ
+ⲁ ⲓ(¨)ϯ ϥⲧⲟⲉ*word-sep-apostrophe* ⲛ̄ϭⲓϫ ⲉⲩⲟ*word-sep-apostrophe* ⲛ̄ϯⲉ
+ⲙ̄ⲙⲁϫⲉ ⲉⲥ ⲕⲉⲥⲁϣ̄ⲥ̄ ⲟⲛ*word-sep-apostrophe*
+ⲛ̣̄ϭⲓϫ ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apostrophe* ⲉⲩⲟ
+
+P.Mon.Epiph. 110
+ⲛ̄ⲟⲩⲁⲡⲉ ⲉⲥ ⲕⲉϣⲟⲙⲧⲉ
+ϭⲓϫ ⲟⲛ*word-sep-apostrophe* ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apos
+
+----------
+Counting Dots
+----------
+
+
+P.Mon.Epiph. 305
+*rho-cross* ⲁⲣⲓ ⲡⲉⲛ̄ⲙⲉⲉⲩⲉ
+ϩ̄ⲛ̄ⲛⲉⲕϣⲗⲏⲗ
+ⲉⲓⲥ ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ
+ⲁϥⲉⲓ ⲉϥϣⲓⲛⲉ ⲛ̄ⲥⲁⲡϫⲱⲕ
+5
+ⲛ̄ⲛ̄ⲥⲟⲩⲟ ⲉⲓⲥ ϯⲟⲩ ⲛ̄ⲉⲣⲧⲁⲃ ⲥⲟⲩⲟ
+ⲙ̄ⲛ̣̄ⲥ̄ⲛ̄ⲧⲉ ⲁⲩⲁϩⲉ ⲉⲣⲁⲧⲟⲩ
+ⲁ ⲓ(¨)ϯ ϥⲧⲟⲉ*word-sep-apostrophe* ⲛ̄ϭⲓϫ ⲉⲩⲟ*word-sep-apostrophe* ⲛ̄ϯⲉ
+ⲙ̄ⲙⲁϫⲉ ⲉⲥ ⲕⲉⲥⲁϣ̄ⲥ̄ ⲟⲛ*word-sep-apostrophe*
+ⲛ̣̄ϭⲓϫ ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apostrophe* ⲉⲩⲟ
+
+P.Mon.Epiph. 110
+ⲛ̄ⲟⲩⲁⲡⲉ ⲉⲥ ⲕⲉϣⲟⲙⲧⲉ
+ϭⲓϫ ⲟⲛ*word-sep-apostrophe* ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apos
+
+----------
+Annotating Lines
+----------
+
+
+P.Mon.Epiph. 305
+1. *rho-cross* ⲁⲣⲓ ⲡⲉⲛ̄ⲙⲉⲉⲩⲉ
+2. ϩ̄ⲛ̄ⲛⲉⲕϣⲗⲏⲗ
+3. ⲉⲓⲥ ⲕⲱⲥⲧⲁⲛⲧⲓⲛⲟⲥ
+4. ⲁϥⲉⲓ ⲉϥϣⲓⲛⲉ ⲛ̄ⲥⲁⲡϫⲱⲕ
+5. ⲛ̄ⲛ̄ⲥⲟⲩⲟ ⲉⲓⲥ ϯⲟⲩ ⲛ̄ⲉⲣⲧⲁⲃ ⲥⲟⲩⲟ
+6. ⲙ̄ⲛ̣̄ⲥ̄ⲛ̄ⲧⲉ ⲁⲩⲁϩⲉ ⲉⲣⲁⲧⲟⲩ
+7. ⲁ ⲓ(¨)ϯ ϥⲧⲟⲉ*word-sep-apostrophe* ⲛ̄ϭⲓϫ ⲉⲩⲟ*word-sep-apostrophe* ⲛ̄ϯⲉ
+8. ⲙ̄ⲙⲁϫⲉ ⲉⲥ ⲕⲉⲥⲁϣ̄ⲥ̄ ⲟⲛ*word-sep-apostrophe*
+9. ⲛ̣̄ϭⲓϫ ⲙ̄ⲛ̄ⲟⲩⲙⲁⲥⲟⲩⲣ*word-sep-apostrophe* ⲉⲩⲟ
+
+P.Mon.Epiph. 110
+ⲛ̄ⲟⲩⲁⲡⲉ ⲉⲥ ⲕⲉϣⲟⲙⲧⲉ
+ϭⲓϫ ⲟⲛ*word-sep-apostrophe* ⲙ

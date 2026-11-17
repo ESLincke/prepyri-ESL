@@ -578,11 +578,10 @@ Fibres ↑→
 Verso
 [.?] ⲁⲡⲁ ⲉⲡⲓⲫⲁⲛⲓⲟⲥ
 [.?]ⲏⲥ *stauros* ⲙⲱⲩ̈[ⲥⲏ]ⲥ̣ [.?]
-*rho-cross* ⲙ̄ⲡⲉⲓⲙⲉ ϫⲉⲉⲕ
--
 
 P.Mon.Epiph. 512
-ⲟⲩⲉϣ*word-sep-apostrophe* ⲟⲩ*word-sep-apostrophe**middot*
+*rho-cross* ⲙ̄ⲡⲉⲓⲙⲉ ϫⲉⲉⲕ
+-ⲟⲩⲉϣ*word-sep-apostrophe* ⲟⲩ*word-sep-apostrophe**middot*
 
 P.Mon.Epiph. 513
 1. ϫⲉ ⲛ[ⲉⲗⲁ-]

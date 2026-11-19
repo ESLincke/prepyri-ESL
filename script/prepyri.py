@@ -1,5 +1,10 @@
 import re 
-import os
+from pathlib import Path
+
+try:
+    from .layouts import load_config, validate_config, file_options, segment_texts, reconstruct
+except ImportError:  # Direct invocation by GitHub Actions
+    from layouts import load_config, validate_config, file_options, segment_texts, reconstruct
 #import pandas # To be used if external RegEx is a wish
 from datetime import datetime # For timestamps in the log
 
@@ -242,6 +247,8 @@ def split_lines(splitl):
         # If not add to current fragment
         else:
             current_frag.append(line)
+    if current_frag:
+        frag_list.append(current_frag)
     return(frag_list)
 
 # Ensure correct whitespacing  with hyphens, usinged in line_number_list
@@ -380,60 +387,67 @@ def annotate_lines(torep, linenumbers=True, rectoverso=False):
 #     # if not in coptic + ascii range
 #
 
-if __name__ == "__main__":
-    # Selfsetup
-    def ensure_folders():
-        os.makedirs("../in", exist_ok = True)
-        os.makedirs("../out", exist_ok = True)
-        os.makedirs("../log", exist_ok = True)
-        os.makedirs("../archive", exist_ok = True)
+def process_text(source, filename='', config=None):
+    """Reconstruct each edition text, then apply the original editorial rules.
 
-    ensure_folders()
-    # Function for log boilerplate, takes version from top plus datetime
-    def log_boilerplate(input_file, warnings):
-        log_boilerplate = f"""-----------------------------------
-    {version}
-processing: 
-    \t{input_file}
-time:
-    \t{datetime.now().isoformat(timespec='seconds')}
-warnings: 
-    {warnings}
------------------------------------
-        """
-        return(log_boilerplate)
+    Titles and standalone paratext are protected from dot counting and numbering.
+    Returns (output, diagnostics), keeping the CLI and tests on the same path.
+    """
+    config = {} if config is None else config
+    validate_config(config)
+    options = file_options(config, filename)
+    texts, warnings = segment_texts(source, filename, options)
+    output = []
+    # Heading substitutions were a segmentation heuristic, not editorial rules.
+    editorial_subs = {pattern: replacement for pattern, replacement in simsubs.items()
+                      if replacement not in (r'\n\n\g<0>', r'\n\nP.Mon.Epiph. \1\n', r'P.Mon.Epiph. \g<0>')}
+    for text in texts:
+        overrides = options.get('texts', {}).get(text.number or '_unidentified', {})
+        rows, layout, notices = reconstruct(
+            text, overrides.get('layout', options.get('layout', 'auto')),
+            overrides.get('start_line'),
+        )
+        label = text.title or '[unidentified opening text]'
+        warnings.append(f'{label}: layout={layout}, lines={sum(r.kind == "text" for r in rows)}')
+        warnings.extend(f'{label}: {notice}' for notice in notices)
+        # Run hyphen movement across original lines, excluding interposed paratext.
+        body = [r for r in rows if r.kind == 'text']
+        normalized = substitute_simple('\n'.join(r.text or '[.?]' for r in body), editorial_subs)
+        normalized = count_dots(move_hyphens(normalized)).split('\n') if body else []
+        if text.title:
+            output.append(text.title)
+        index = 0
+        for row in rows:
+            if row.kind == 'paratext':
+                output.append(row.text)
+            else:
+                output.append(ensure_hyphen_whitespace(f'{row.number}. {normalized[index]}'))
+                index += 1
+        output.append('')
+    return '\n'.join(output), '\n'.join(warnings)
 
-    # skip non txts 
-    for files in (f for f in os.listdir("../in/") if f.endswith(".txt")):
-        to_replace = ""
-        warnings = ""
-        # read and modify the files 
-        with open(f"../in/{files}", mode="r", encoding="utf-8") as f_open:
-            to_replace = f_open.read()
 
-        # Replacing&Logging
-        to_replace = substitute_simple(to_replace, simsubs)
-        to_log = "\n" +"----------\nSimple Substitutions\n----------\n" + to_replace[:400] + "\n" 
+def main(root=None, config_path=None):
+    root = Path(root) if root is not None else Path(__file__).resolve().parent.parent
+    if config_path is not None and not Path(config_path).is_file():
+        raise FileNotFoundError(config_path)
+    config = load_config(config_path if config_path is not None else root / 'prepyri.json')
+    for directory in ('in', 'out', 'log', 'archive'):
+        (root / directory).mkdir(exist_ok=True)
+    for source in sorted((root / 'in').glob('*.txt')):
+        result, warnings = process_text(source.read_text(encoding='utf-8'), source.name, config)
+        archived = root / 'archive' / source.name
+        (root / 'out' / f'out_{source.name}').write_text(result, encoding='utf-8')
+        log = f'{version}\n{datetime.now().isoformat(timespec="seconds")} {source.name}\n{warnings}\n{result[:400]}\n'
+        with (root / 'log' / f'log_{datetime.now().date()}.txt').open('a', encoding='utf-8') as stream:
+            stream.write(log)
+        print(log)
+        source.rename(archived)
 
-        to_replace = move_hyphens(to_replace)
-        to_log = "\n" +to_log + "\n" + "----------\nMoving Hyphens\n----------\n" + to_replace[:400] + "\n" 
 
-        to_replace = count_dots(to_replace)
-        to_log = "\n" +to_log + "\n" + "----------\nCounting Dots\n----------\n" + to_replace[:400] + "\n" 
-
-        to_replace, warnings = annotate_lines(to_replace)
-        to_log = "\n" +to_log  + "\n" + "----------\nAnnotating Lines\n----------\n" + to_replace[:400] + "\n" 
-
-        print(to_log)
-
-        with open(f"../out/out_{files}", mode="w", encoding="utf-8") as f_write:
-            f_write.write(to_replace)
-
-        to_log = log_boilerplate(files, warnings) + to_log
-
-        # Append or create log of the day.
-        with open(f"../log/log_{datetime.now().date()}.txt", mode="a", encoding="utf-8") as log_write: 
-            log_write.write(to_log)
-
-        # Archiving the input file
-        os.rename(f"../in/{os.path.basename(files)}", f"../archive/{os.path.basename(files)}")
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description='Reconstruct and normalize OCR texts in in/.')
+    parser.add_argument('--config', type=Path, help='Optional JSON configuration (default: prepyri.json)')
+    args = parser.parse_args()
+    main(config_path=args.config)

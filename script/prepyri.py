@@ -10,13 +10,13 @@ from datetime import datetime # For timestamps in the log
 
 version = """
 Current Version:
-\t0.1.1beta Pre-Papyri
-\t03/04/2025
-\tCorvin Ziegeler """
+\t0.2.0-beta Pre-Papyri with extension Prep-Ryli
+\t19/11/2026
+\tCorvin Ziegeler & Eliese-Sophia Lincke"""
 
 ##------------------------------------
 ## Current Version:
-## 03/04/2025 Corvin Ziegeler
+## 19/11/2026 Corvin Ziegeler & Eliese-Sophia Lincke
 ## For the log of changes consider commit history. 
 ##------------------------------------
 

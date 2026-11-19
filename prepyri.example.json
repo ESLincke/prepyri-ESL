@@ -1,0 +1,16 @@
+{
+  "files": {
+    "PMonEpiph_170-172_2026-11-17.txt": {
+      "edition": "P.Mon.Epiph.",
+      "edition_numbers": [170, 171, 172],
+      "layout": "wysiwyg"
+    },
+    "PRylCopt_320-329_2026-01-09.txt": {
+      "layout": "auto",
+      "edition": "P.Ryl.Copt.",
+      "texts": {
+        "321": {"layout": "numbered", "start_line": 1}
+      }
+    }
+  }
+}

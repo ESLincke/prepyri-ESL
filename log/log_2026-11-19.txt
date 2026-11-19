@@ -298,3 +298,59 @@ Above l. 1,
 10. ⲃⲱⲕ ⲛⲡⲙⲁ ⲡⲥⲁϩ ⲡⲉⲧⲣⲁ ⲛⲁⲩ ϫⲉ
 11. ϣⲁⲣⲉⲡⲕⲱⲙⲏⲕⲁⲑⲏⲕⲏⲥ ⲉⲓ ⲧⲱⲛ ⲉ
 12. ⲙⲟⲛ ⲡⲣⲱⲥ⁵ 
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-19T14:06:08 PRylCopt_330-338_2026-01-23.txt
+P.Ryl.Copt. 330: layout=pipe, lines=27
+P.Ryl.Copt. 331: layout=pipe, lines=6
+P.Ryl.Copt. 332: layout=pipe, lines=11
+P.Ryl.Copt. 333: layout=pipe, lines=5
+P.Ryl.Copt. 334: layout=pipe, lines=10
+P.Ryl.Copt. 335: layout=pipe, lines=7
+P.Ryl.Copt. 336: layout=pipe, lines=5
+P.Ryl.Copt. 337: layout=pipe, lines=7
+P.Ryl.Copt. 338: layout=pipe, lines=23
+P.Ryl.Copt. 330
+1. [.?]ⲙⲡⲓⲡⲁⲑⲁⲡⲟⲕⲣⲏⲥⲓⲥ¹
+2. [ⲱⲥ]ⲇⲉ ϩⲛⲡⲧⲣⲉⲕⲥϩⲁⲓ ⲧⲁⲃⲱⲕ
+3. ⲉⲣⲏⲥ ⲙⲡⲉⲡⲡⲁⲅⲁⲣⲭ ⲧⲓ ⲧⲟⲟⲧ
+4. ⲁⲗⲗⲁ ⲁϥⲧⲓ ⲧⲉⲡⲣⲟⲧⲓⲙⲏ² ⲙ
+5. ⲡⲣⲁⲛ ³ ⲛⲛⲟⲩϫ ϫⲉⲁ̣ⲣⲭⲙⲁⲛⲇ
+6. [ⲱⲥⲇⲉ.3]ⲉ[.2] ⲥⲡⲟⲩⲇⲁⲍⲉ ⲛϣⲟⲣϣⲣ
+7. [.6]ⲁⲣ̣ [⁴][?]
+8. ⲥⲁ̣ⲭ̣[ⲟ.6]ⲕⲟ̣ⲩ̣ⲓ̣
+9. ϣⲏⲙ ⲛⲛⲟⲩⲃ ⲟⲛ ⲉⲡⲙⲁ
+10. ⲙⲡⲛⲟ ͵ασξγ
+11. [ⲱ]ⲥⲇⲉ (ⲟⲛ above) ϫⲛⲛⲉⲩⲧⲓ ⲗⲁⲁⲩ ϩⲁ[.3]
+12. [.2]ⲉ̣ ⲉⲩⲟⲩⲱⲙ ⲉⲩⲥⲱ ⲉⲩⲫⲟⲣⲉⲓ
+13. ⲛⲧⲁⲕ.1⁵ ⲁⲩⲱ ⲛⲁⲧⲇⲓⲁⲅⲣⲁⲫⲟⲛ
+14. ⲱⲥⲇⲉ ⲧⲁⲣⲉⲧⲉⲧⲛⲉⲛⲧⲟⲩ ⲛⲁⲓ ⲉϩⲟⲩⲛ̣
+15. ⲟⲩⲁ 
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-19T14:06:08 PRylCopt_339-347_2026-02-06.txt
+P.Ryl.Copt. 339: layout=pipe, lines=16
+P.Ryl.Copt. 340: layout=pipe, lines=35
+P.Ryl.Copt. 340: Conflicting line marker 5; reconstructed line 27 retained
+P.Ryl.Copt. 340: Conflicting line marker 10; reconstructed line 32 retained
+P.Ryl.Copt. 341: layout=pipe, lines=5
+P.Ryl.Copt. 342: layout=pipe, lines=7
+P.Ryl.Copt. 343: layout=pipe, lines=13
+P.Ryl.Copt. 344: layout=pipe, lines=21
+P.Ryl.Copt. 345: layout=wysiwyg, lines=0
+P.Ryl.Copt. 346: layout=pipe, lines=11
+P.Ryl.Copt. 347: layout=pipe, lines=9
+P.Ryl.Copt. 339
+1. *stauros* ϩⲁⲑⲏ ⲙⲉⲛ ⲛϩⲱϥ ⲛⲓⲙ ⲧⲓϣⲓⲛⲉ (ⲛⲧⲉⲕⲑⲉⲟⲫⲩⲗⲧ( ))¹⁴ ⲛⲙⲉⲣⲓⲧ ⲛϫⲟⲉⲓⲥ ⲛⲓⲱⲧ
+2. ϯⲡⲁⲣⲁⲕⲁⲗⲉⲓ ⲛⲙⲟⲕ ⲛⲅϣⲓⲛⲉ ⲛ[ⲥⲁ]ⲫⲱϥ ⲛⲛⲉⲓⲱϩⲉ ⲉⲩ̣ⲏⲧⲟⲟⲧϥ
+3. ⲛ[ⲡⲛ]ⲟϭ ⲛⲣⲱⲙⲉ¹⁵ ⲛⲅϣⲓⲛⲉ ⲛⲥⲁⲫⲱ̣ϥ̣ .3¹⁶ ⲧⲁⲣⲉⲕⲓ̣ⲙ̣ⲉ ϫ̣ⲉⲁⲛⲟⲕ ⲟⲩ
+4. ⲃⲁⲓⲇⲏⲙⲟⲥⲓⲟⲛ¹ ⲧⲓⲉⲣⲭⲣⲉⲓⲁ ⲛϣⲉ ⲛⲛⲁ² ⲉⲣⲟⲓ ⲉⲡⲟⲟⲩ ⲁⲭⲱ ⲛ̣ⲅⲛⲟⲉⲓ³ ⲛⲡⲁⲧⲉⲡⲟⲟⲩ
+5. ϣⲱⲡⲉ ϫⲉⲣⲉⲛⲁⲓⲱϩⲉ ϩⲓ⁴ ⲧⲱⲛⲉ ⲁⲗⲗⲁ ⲉϥϭⲱⲡ ⲗⲟⲉⲓϭⲉ ϫⲉⲓⲟⲩⲱϣ
+6. ⲭⲁⲣⲧ ⲉⲣⲟⲟⲩ ⲉⲡⲓ ⲉⲥ̣ ⲡⲁⲭⲁⲣⲧ ⲏⲛⲧⲟⲟⲧ ⲉϥϣⲁⲛⲟⲩⲱϣ ⲛⲉⲓ ⲉⲫⲟⲟⲩⲧⲛ .1ⲉ̣.1
+7. [.

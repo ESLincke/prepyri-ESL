@@ -1,0 +1,50 @@
+
+Current Version:
+	0.1.1beta Pre-Papyri
+	03/04/2025
+	Corvin Ziegeler 
+2026-11-19T11:13:44 PRylCopt_296-301_2026-11-18.txt
+Edition number jumps from 297 to 299; no missing heading was invented.
+P.Ryl.Copt. 296: layout=pipe, lines=15
+P.Ryl.Copt. 297: layout=pipe, lines=12
+P.Ryl.Copt. 299: layout=pipe, lines=18
+P.Ryl.Copt. 300: layout=pipe, lines=9
+P.Ryl.Copt. 301: layout=pipe, lines=12
+P.Ryl.Copt. 296
+1. [.?]ⲉⲗⲁⲭⲓⲥⲧⲟⲥ ⲡϥⲧⲟⲗⲙⲁ ϥⲥϩⲁⲓ ⲉⲣⲁⲧϥ ⲛⲧϥϫⲟⲉⲓⲥ ⲙⲙⲁⲁⲩ
+2. [.?] ⲛϩⲱϥ ⲛⲓⲙ ⲧⲓⲁⲥⲡⲁⲍⲉ ⲉⲡⲏⲥⲏⲧ ⲉⲛⲟⲩⲟⲩⲣⲏⲧⲉ ⲁⲩⲱ ⲧⲓϣⲓⲛⲉ
+3. [.?][ⲕ]ⲁⲧⲁ ⲛⲉⲩⲣⲁⲛ ⲁⲩⲱ ⲉⲡⲉⲓⲇⲏ ⲁⲡⲁⲥⲟⲛ ⲇⲓⲟⲥⲕⲟⲣⲟⲥ ⲉⲓ ⲉϩⲏⲧ ⲁϥϫⲟⲟⲥ
+4. ⲅ]ⲏⲛⲏⲙ̣ⲁ [.3]ϣ̣ ⲉⲩⲟ ⲛⲛⲧⲏⲧ̣[ⲛⲉ]ⲙ̣ⲓ̣ⲛⲉ ⲉⲣⲭⲱⲗⲏ³ ⲙⲛⲣⲱⲙⲉ
+5. [.?]ⲉⲩϣⲏⲣⲉ [ⲧⲓⲡⲁ]ⲣⲁⲕⲁⲗⲉⲓ ⲟ[ⲩⲛ] ⲉⲙⲟ ⲧⲁⲣⲉⲧⲁⲩⲟ ⲡⲁⲣⲁⲛ
+6. [.?]ⲥⲛ̣ⲁ̣ϩ[.2]ⲛ.1ⲉ.2ⲉⲓⲣ̣[ⲉ ⲛ]ⲙⲟⲥ ⲛⲧⲁⲩϣⲱⲡⲉ ⲧⲓⲥⲟ[ⲟⲩⲛ]
+7. [.?]ⲟϥ ⲛⲧⲟⲟⲧϥ ⲙⲡϫⲟⲉⲓⲥ [ⲉ]ⲃ̣ⲁϣⲱⲡⲉ ⲁⲩⲱ ϩⲱϥ ⲛⲓⲙ
+8.
+
+Current Version:
+	0.1.1beta Pre-Papyri
+	03/04/2025
+	Corvin Ziegeler 
+2026-11-19T11:13:44 PRylCopt_302-309_2026-11-18.txt
+P.Ryl.Copt. 302: layout=pipe, lines=8
+P.Ryl.Copt. 303: layout=pipe, lines=9
+P.Ryl.Copt. 304: layout=wysiwyg, lines=1
+P.Ryl.Copt. 305: layout=pipe, lines=10
+P.Ryl.Copt. 306: layout=pipe, lines=17
+P.Ryl.Copt. 307: layout=pipe, lines=2
+P.Ryl.Copt. 308: layout=pipe, lines=7
+P.Ryl.Copt. 309: layout=pipe, lines=7
+P.Ryl.Copt. 302
+1. *rho-cross* ⲡⲉⲕϭⲁⲟⲩⲟⲛ ⲡⲁⲩⲗⲉ ⲡⲣⲱⲙⲥⲓⲙⲟⲭ [.?]
+2. ϩⲁⲑⲏ ⲙⲛ ⲛϩⲱϥ ⲛⲓⲙ ⲧⲓⲡⲣⲟⲥⲕ[ⲩⲛⲉⲓ] [.?]
+3. ⲁⲓⲧⲛⲟⲟⲩϥ ⲛⲁⲕ ⲉϩⲣⲁⲓ ⲉϥⲧⲓ ⲕⲁ[.?]
+4. ⲁⲩⲉⲛⲉⲕⲉ ⲛⲉⲙⲁϥ ⲛⲧⲣⲟⲙ.1ϫ.1²[.?]
+5. .4 ⲉⲥ ⲧⲁⲁⲡⲟⲗⲟⲅⲓⲍⲉ ⲛⲁⲕ̣[.?]
+6. ⲁⲩⲱ ⲉⲓⲥ ⲥⲟ̣ⲁ̣ⲓϣ ³ ⲥⲛⲁⲩ ⲛ.1[.?]
+7. ⲁⲩⲱ ϣⲉⲡⲛⲟⲩⲧⲉ ϩⲉⲡⲁϩⲉ .1[.?]
+blank
+Verso.
+8. [.?][ϩⲓ]ⲧⲛⲡⲉⲕϭⲁⲟⲩⲟⲛ ⲡⲁⲩⲗⲉ ⲡ̣ⲣ̣.6⁴
+
+P.Ryl.Copt. 303
+1. *stauros* ⲡⲉⲧⲛⲉϭⲁⲩⲟⲛ [ⲡ]ⲁⲩⲗⲉ ⲡⲃⲱⲏⲑ[ⲟⲥ] [.?]
+2. ⲑⲉⲩⲇⲱⲣⲁⲕⲉ [ⲡ]ⲉⲭⲁⲣⲧⲟⲗⲁ

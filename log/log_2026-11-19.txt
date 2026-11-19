@@ -267,3 +267,34 @@ P.Ryl.Copt. 296
 6. [.?]ⲥⲛ̣ⲁ̣ϩ[.2]ⲛ.1ⲉ.2ⲉⲓⲣ̣[ⲉ ⲛ]ⲙⲟⲥ ⲛⲧⲁⲩϣⲱⲡⲉ ⲧⲓⲥⲟ[ⲟⲩⲛ]
 7. [.?]ⲟϥ ⲛⲧⲟⲟⲧϥ ⲙⲡϫⲟⲉⲓⲥ [ⲉ]ⲃ̣ⲁϣⲱⲡⲉ ⲁⲩⲱ ϩⲱϥ ⲛⲓⲙ
 8.
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-19T13:44:24 PRylCopt_320-329_2026-01-09.txt
+P.Ryl.Copt. 320: layout=pipe, lines=41
+P.Ryl.Copt. 321: layout=numbered, lines=10
+P.Ryl.Copt. 322: layout=pipe, lines=15
+P.Ryl.Copt. 323: layout=pipe, lines=12
+P.Ryl.Copt. 324: layout=pipe, lines=10
+P.Ryl.Copt. 325: layout=pipe, lines=7
+P.Ryl.Copt. 326: layout=pipe, lines=12
+P.Ryl.Copt. 327: layout=pipe, lines=8
+P.Ryl.Copt. 328: layout=pipe, lines=10
+P.Ryl.Copt. 329: layout=pipe, lines=9
+P.Ryl.Copt. 320
+Above l. 1,
+ⲭⲙⲅ.
+1. *rho-cross* ⲕⲩⲣⲁⲕⲟⲥ ⲡⲉⲧⲥϩⲁⲓ ⲛⲡⲥⲁϩ ⲇⲓⲟⲛⲩⲥⲏ
+2. ϫⲉϩⲁⲑⲏ ⲙⲉⲛ ⲛϩⲱⲃ ⲛⲓⲙ ϯϣⲓⲛⲉ
+3. ⲉⲣⲱⲧⲛ ⲁⲩⲱ ⲉⲡⲓⲇⲏ ⲁⲓⲃⲱⲕ ⲁⲓⲁⲛⲁⲕⲁ
+4. ⲍⲉ ⲛⲑⲉⲛⲉⲉⲧⲉ ⲛⲡⲙⲁ ⲛⲁⲡⲁ ⲃⲁⲛⲉ
+5. ⲉⲧⲃⲉⲡⲕⲱⲙⲏⲕⲁⲑⲏⲕⲏⲥ¹  ⲁⲩⲓ² ⲉϩⲣⲁⲓ
+6. ⲛⲡⲥⲁϩ ⲡⲉⲧⲣⲁ ⲁϥϫⲟⲟⲩ ⲧⲉⲡⲓⲥⲧⲟⲗⲏ
+7. ⲛⲁⲓ ⲉⲃⲟⲗ ϫⲉⲡⲣϫⲁϫⲉ³ ⲙⲛⲣⲱⲙⲉ
+8. ⲡⲙⲁ ⲁⲇⲉⲗⲫⲏ⁴ ⲡⲉϫⲁⲩⲟⲩ ϫⲉϣⲁⲣⲉ
+9. ⲡⲙⲁ ⲁⲇⲉⲗⲫⲏ ϯ ϣⲉ ϫⲟⲩⲧⲏ ⲃⲱⲓⲑⲉ
+10. ⲃⲱⲕ ⲛⲡⲙⲁ ⲡⲥⲁϩ ⲡⲉⲧⲣⲁ ⲛⲁⲩ ϫⲉ
+11. ϣⲁⲣⲉⲡⲕⲱⲙⲏⲕⲁⲑⲏⲕⲏⲥ ⲉⲓ ⲧⲱⲛ ⲉ
+12. ⲙⲟⲛ ⲡⲣⲱⲥ⁵ 

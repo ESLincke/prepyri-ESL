@@ -90,3 +90,67 @@ P.Ryl.Copt. 296
 6. [.?]ⲥⲛ̣ⲁ̣ϩ[.2]ⲛ.1ⲉ.2ⲉⲓⲣ̣[ⲉ ⲛ]ⲙⲟⲥ ⲛⲧⲁⲩϣⲱⲡⲉ ⲧⲓⲥⲟ[ⲟⲩⲛ]
 7. [.?]ⲟϥ ⲛⲧⲟⲟⲧϥ ⲙⲡϫⲟⲉⲓⲥ [ⲉ]ⲃ̣ⲁϣⲱⲡⲉ ⲁⲩⲱ ϩⲱϥ ⲛⲓⲙ
 8.
+
+Current Version:
+	0.1.1beta Pre-Papyri
+	03/04/2025
+	Corvin Ziegeler 
+2026-11-19T11:23:00 PRylCopt_310-313_2026-11-19.txt
+P.Ryl.Copt. 310: layout=pipe, lines=27
+P.Ryl.Copt. 311: layout=pipe, lines=22
+P.Ryl.Copt. 312: layout=pipe, lines=17
+P.Ryl.Copt. 313: layout=pipe, lines=16
+P.Ryl.Copt. 310
+1. ⲁⲥⲟⲩ ⲁϥ [.7] *middot* ⲙⲛⲛ
+2. ⲥⲱⲥ ⲁⲡ[.4¹] ⲉ̣ⲧⲙⲙⲁⲩ
+3. ϫⲉⲩ ⲧⲉϥⲙⲁⲁⲩ*middot* ⲁⲥⲛ ⲡⲕⲉ
+4. ϣⲱϫⲡ ⲉⲛⲧⲁϥⲥⲉⲉⲡⲉ ⲉⲣⲏⲥ
+5. ⲁⲩⲱ ⲙⲛⲛⲥⲱⲥ ⲁⲡⲉϣⲱⲧ
+6. ⲟⲛ ⲉⲧⲙⲙⲁⲩ ⲃⲱ[ⲕ] ⲉϩⲏⲧ
+7. ⲁϥⲁⲛⲁⲅⲕⲁⲍⲉ ⲙⲙⲟϥ
+8. ⲁϥⲧⲁⲁϥ ⲛⲧⲛⲟⲩⲁⲣⲭⲱⲛ²
+9. ⲛⲣⲙⲡⲁⲡⲁ³ ⲁϥϩⲟⲩ[.1]ⲁ ⲉⲣⲟϥ
+10. ϫⲉⲟⲩⲛⲧⲁⲓ ⲙⲛⲧⲥⲁϣϥⲉ
+11. ⲛⲧⲃⲁ ⲛϭⲓⲛϭⲱⲣ⁴ *middot* ⲉⲣⲟϥ
+12. ⲁϥⲟⲧⲡϥ ⲉϩⲟⲩⲛ*middot* ⲁϥϫⲓ
+13. ⲧϥ ⲛϭⲟⲛⲥ ϣⲁⲛⲧϥⲥϩⲁⲓ
+14. ⲛⲁϥ ⲉⲛⲉϥϣⲏⲣⲉ ⲉⲛϩⲛⲁϥ ⲁⲛ
+15. ⲁϥⲧⲁⲁⲧ ⲛⲧⲛⲡϩⲩⲡⲁⲣⲏⲥ ⁵
+16. 
+
+Current Version:
+	0.1.1beta Pre-Papyri
+	03/04/2025
+	Corvin Ziegeler 
+2026-11-19T11:23:00 PRylCopt_314-319_2026-11-19.txt
+P.Ryl.Copt. 314: layout=pipe, lines=21
+P.Ryl.Copt. 315: layout=pipe, lines=7
+P.Ryl.Copt. 316: layout=pipe, lines=13
+P.Ryl.Copt. 317: layout=pipe, lines=17
+P.Ryl.Copt. 317: Anchor implies start -3; numbering starts at 1 instead
+P.Ryl.Copt. 317: Conflicting line marker 7; reconstructed line 11 retained
+P.Ryl.Copt. 318: layout=pipe, lines=7
+P.Ryl.Copt. 319: layout=pipe, lines=26
+P.Ryl.Copt. 314
+Recto →.
+Remnants of 5 lines, beginning
+1. ⲡⲁ[ .1
+L. 5 ends
+2. ϩⲁ
+3. ⲑⲏ ⲛϩ[ⲱ]ϥ [ⲙ]ⲓⲛ
+4. ϯϣⲓⲛⲉ ⲉⲣⲟⲕ
+5. ⲧⲟⲛⲟⲩ ⲕⲁⲧⲁ
+6. ⲑⲉ ⲛⲧⲁⲓⲥⲁⲁⲕ [ⲉ]ⲓ³
+7. ⲉⲃⲟⲗ ⲉⲧⲃⲉⲛⲉ
+8. ⲥⲛⲏⲟⲩ ⲓⲱⲥⲏⲫ
+9. ⲡⲧⲓⲁⲕⲟⲛⲟⲥ
+10. ⲙⲛⲁⲙⲙⲱⲛⲓⲱⲛ
+11. ⲡⲁⲛⲁⲅⲛⲱⲥⲧⲏⲥ [ⲛ]ⲑⲉ ⲛⲧⲁⲧⲉⲕⲙⲛ̣[ⲧ]
+12. ⲭⲣⲏⲥⲧⲟⲥ ⲡⲱϩ ⲛ
+13. ϣⲁⲟⲩⲟⲛ ⲛ[ⲓ]ⲙ ⲙ̣[ⲁ]
+14. ⲣⲉⲥⲡⲱϩ ⲛϣⲁ[ⲛ]
+15. ⲉⲥⲛⲏⲟⲩ ϩⲱⲟⲩ ⲉⲓ
+16. ⲱⲥⲏⲫ ⲙⲉⲛⲁⲙⲙⲱ
+17. ⲛⲓⲱⲛ ⲫⲱ̣[ϥ] ⲛⲅⲁⲣ
+18. ⲛⲧⲁⲓⲣⲁ[ⲝⲓ]ⲟⲩ ⲙⲟⲕ
+19. ⲉⲧⲃⲉⲛⲉⲥ[ⲛⲏⲟⲩ] ϫⲉ

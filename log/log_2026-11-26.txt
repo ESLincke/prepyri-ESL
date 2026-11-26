@@ -1,0 +1,19 @@
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-26T14:09:20 PRylCopt_349-354_2026-11-26.txt
+P.Ryl.Copt. 349: layout=pipe, lines=30
+P.Ryl.Copt. 350: layout=pipe, lines=22
+P.Ryl.Copt. 351: layout=pipe, lines=7
+P.Ryl.Copt. 352: layout=pipe, lines=19
+P.Ryl.Copt. 353: layout=pipe, lines=20
+P.Ryl.Copt. 354: layout=pipe, lines=10
+P.Ryl.Copt. 349
+Recto ↑.
+1. *stauros* ϩⲙⲡⲣⲁⲛ ⲉⲡⲛⲟⲩⲧⲉ ⲛϣⲟⲣⲡ ϩⲱⲃ ⲛⲓⲙ [.6 ⲉⲓⲥϩⲁ]ⲓ ⲉⲓϣⲓⲛⲉ ⲡⲁⲙ[ⲉⲣⲓⲧ]
+2. ⲛⲓⲱⲧ ⲙⲏⲛⲁ ⲙⲛⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲍⲁ̣ⲭⲁⲣ̣ⲓ̣ⲁ̣ⲥ̣ [about 14 let.1]ⲁⲩ̣ ⲙⲛⲫ̣.1ⲉ̣ ⲙⲛⲓⲁⲓ̣ⲉ̣ [.2]
+3. ⲙⲛⲟⲩⲛⲟⲃⲉⲣ ⲙⲛⲡⲟⲩϫⲁⲓ ⲛⲁⲡⲉⲛⲏⲓ ⲧⲏⲣϥ ϫⲓⲛⲉⲡⲕⲟⲩⲓ ϣⲁⲡⲛⲟϭ ⲧⲓⲧⲁⲙⲟ̣ ⲛⲙⲟ
+4. ⲕ ⲡⲁⲓⲱⲧ ϫⲉ̣ⲣϣⲁ̣ⲛ̣ⲡⲛⲟⲩⲧⲉ ϫⲓ ⲙⲟⲉⲓⲧ² ⲉⲭⲁⲏⲗ ⲡϣⲱ̣ⲧ ⲉⲥ̣ⲟ̣ⲩ̣ϣⲓⲛⲉ³ ⲧⲟⲟⲧϥ ⲛⲥⲁ̣ⲟⲩ .3
+5. .2ⲉⲣ̣ⲉ̣ *dipunct* η ϩⲓⲱⲱⲥ ⲛϣⲁⲣⲉⲡⲛⲟⲩⲧⲉ ϫⲓ ⲙⲟⲉⲓⲧ [ⲛ]ⲁϥ ⲧⲛ̣ⲉⲓ ⲧⲟⲟⲧⲕ ⲥϩⲁⲓ ⲡⲉⲩ 

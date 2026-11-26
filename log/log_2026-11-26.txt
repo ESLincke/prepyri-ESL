@@ -45,3 +45,26 @@ P.Ryl.Copt. 356
 Recto ↑.
 1. [.?]ⲓ ⲉⲓⲡⲣⲱⲥⲕⲩⲛⲉ ⲡⲁⲙⲉⲣⲓⲧ ⲛϫⲟⲉⲓⲥ ⲓⲱⲧ[.?]
 2. [.
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-26T19:30:09 PRylCopt_365-371_2026-11-26.txt
+P.Ryl.Copt. 365: layout=pipe, lines=14
+P.Ryl.Copt. 366: layout=pipe, lines=7
+P.Ryl.Copt. 367: layout=pipe, lines=6
+P.Ryl.Copt. 368: layout=wysiwyg, lines=11
+P.Ryl.Copt. 369: layout=pipe, lines=10
+P.Ryl.Copt. 370: layout=pipe, lines=22
+P.Ryl.Copt. 371: layout=pipe, lines=11
+P.Ryl.Copt. 365
+Recto ↑.
+1. ϯ ϩⲁⲑⲏ ⲙⲉⲛ ⲙ̄ⲡϣⲁϫⲉ (sic) ⲉⲣⲟⲧ̄ⲛ̄ ⲉⲡⲓⲇⲉ ⲁ ⲓ(¨)ⲉ[ⲓ]
+2. ⲉϩⲏⲧ ⲁⲕϯ ⲧⲓ̄ⲗⲁⲕ̄ⲙ̄ ⲛ̄ϣⲉ ⲛⲁ ⲓ(¨) ⲁⲕϫⲟⲟⲥ ⲛⲁ ⲓ(¨) [ϫⲉ]
+3. ⲛ̄ⲣⲱⲙⲉ ⲟⲩⲱϣ ⲡϣⲏⲙ ⲙ̄ⲡⲓⲛⲓⲡⲉ ⲁⲭⲱ ⲧ[.?]
+4. ⲙⲡⲁϩⲣⲉ*middot* ϩⲁⲥⲟⲣⲉⲧ ϯⲛⲟⲩ ⲉⲓⲥ ⲡⲣⲱⲙ[ⲉ]
+5. ⲉϣⲱⲡⲉ ⲕⲟⲩⲱϣ ⲉⲧⲁⲁⲩ ⲛⲁϥ ⲉⲓⲉ ⲧⲁ̣[ⲁⲩ]
+6. ⲧⲁϣⲁϫⲉ ⲛ̄ⲙ̄ⲁⲕ ⲉⲓⲥ ⲙ̄ⲓⲧⲣⲁ⁴ ⲁ ⲓ(¨)ⲥⲙⲛⲧⲟⲩ [.?]
+7. ⲉⲧⲃⲉⲛ̄ϭⲗϭⲓϫ̄⁵ ⲙ̄ⲡⲥⲁϩ ⲙ̄ⲙⲱⲩ̈ⲥⲏⲥ ϫⲉⲙ̄[ⲡⲕ]
+8. ⲥⲙⲛⲧⲟⲭ ⲛⲁ ⲓ(¨) ϣⲁ*middot* ϯⲛⲟⲩ*middot* ⲣ̄ⲧⲁⲕⲁⲡⲏ ⲛ̄ⲅⲥⲕⲉⲗ

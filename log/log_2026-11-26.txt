@@ -17,3 +17,31 @@ Recto ↑.
 3. ⲙⲛⲟⲩⲛⲟⲃⲉⲣ ⲙⲛⲡⲟⲩϫⲁⲓ ⲛⲁⲡⲉⲛⲏⲓ ⲧⲏⲣϥ ϫⲓⲛⲉⲡⲕⲟⲩⲓ ϣⲁⲡⲛⲟϭ ⲧⲓⲧⲁⲙⲟ̣ ⲛⲙⲟ
 4. ⲕ ⲡⲁⲓⲱⲧ ϫⲉ̣ⲣϣⲁ̣ⲛ̣ⲡⲛⲟⲩⲧⲉ ϫⲓ ⲙⲟⲉⲓⲧ² ⲉⲭⲁⲏⲗ ⲡϣⲱ̣ⲧ ⲉⲥ̣ⲟ̣ⲩ̣ϣⲓⲛⲉ³ ⲧⲟⲟⲧϥ ⲛⲥⲁ̣ⲟⲩ .3
 5. .2ⲉⲣ̣ⲉ̣ *dipunct* η ϩⲓⲱⲱⲥ ⲛϣⲁⲣⲉⲡⲛⲟⲩⲧⲉ ϫⲓ ⲙⲟⲉⲓⲧ [ⲛ]ⲁϥ ⲧⲛ̣ⲉⲓ ⲧⲟⲟⲧⲕ ⲥϩⲁⲓ ⲡⲉⲩ 
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-26T17:31:18 PRylCopt_355-363_2026-11-26.txt
+P.Ryl.Copt. 355: layout=pipe, lines=5
+P.Ryl.Copt. 356: layout=pipe, lines=8
+P.Ryl.Copt. 357: layout=pipe, lines=10
+P.Ryl.Copt. 358: layout=pipe, lines=7
+P.Ryl.Copt. 359: layout=pipe, lines=10
+P.Ryl.Copt. 360: layout=pipe, lines=4
+P.Ryl.Copt. 361: layout=pipe, lines=19
+P.Ryl.Copt. 362: layout=pipe, lines=9
+P.Ryl.Copt. 363: layout=pipe, lines=4
+P.Ryl.Copt. 355
+Recto ↑.
+1. [*stauros* ⲡⲉ]ⲧ[ⲛⲉ]ϭⲁⲟⲩⲟⲛ ⲁⲡⲟⲗⲗ[ⲱ ⲡϩⲓ]ⲉⲣⲉⲟⲥ ⲡⲉϥⲧⲟⲗⲙⲁ ⲉϥⲥϩⲁⲓ ⲙ[.?]
+2. [ϩ]ⲁⲑⲏ ⲙⲛ ϩⲱⲃ ⲛⲓⲙ ⲧⲓⲡⲣⲟⲥⲕⲏⲛⲉ ⲙⲡⲉⲟⲟⲩ ⲛⲧⲉⲧⲛⲉⲙⲉ[ⲧϫⲟⲉⲓⲥ] [.?]
+3. [.?][ϫⲟⲉⲓⲥ ϫⲉⲉⲓⲥ ⲡⲉϥⲧⲟⲟⲩ ⲛⲧⲃⲁ ⲛⲕⲁϣ ⲁ̣ⲡⲉϥⲧⲟⲟⲩ ⲛⲕⲣⲁⲧⲏⲥ ]
+4. ⲉⲃⲁⲣⲟⲉⲓⲥ ⲉⲣⲱⲧⲛ ⲙⲉⲡⲕⲁⲡ ⲉⲛⲉϥⲓⲱ ϣⲟⲟⲡ ϩⲁⲧⲛ[.?]
+Verso.
+5. [.?]ϥ̣ⲑ [space] ⲭⲙⲅ ϥⲑ *rho-cross**rho-cross**rho-cross*
+
+P.Ryl.Copt. 356
+Recto ↑.
+1. [.?]ⲓ ⲉⲓⲡⲣⲱⲥⲕⲩⲛⲉ ⲡⲁⲙⲉⲣⲓⲧ ⲛϫⲟⲉⲓⲥ ⲓⲱⲧ[.?]
+2. [.

@@ -135,3 +135,34 @@ Verso →.
 4. ⲥⲁⲩⲧⲉ ⲉϥϩⲓⲧⲁⲯⲏⲭⲏ ϫⲉⲛ[.?]
 5. ϩⲟ ⲙⲡⲉⲥⲕⲁⲁⲧ ⲁⲓⲥⲓ ⲙⲙⲟϥ ⲙⲟⲛ [.?]
 6. ⲧⲉ
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-27T20:03:30 PRylCopt_413-415+460-461_2026-11-27.txt
+Edition number jumps from 415 to 460; no missing heading was invented.
+P.Ryl.Copt. 413: layout=pipe, lines=13
+P.Ryl.Copt. 414: layout=pipe, lines=9
+P.Ryl.Copt. 415: layout=pipe, lines=4
+P.Ryl.Copt. 460: layout=pipe, lines=65
+P.Ryl.Copt. 460: Conflicting line marker 461; reconstructed line 19 retained
+P.Ryl.Copt. 460: Conflicting line marker 5; reconstructed line 24 retained
+P.Ryl.Copt. 460: Conflicting line marker 10; reconstructed line 29 retained
+P.Ryl.Copt. 460: Conflicting line marker 15; reconstructed line 33 retained
+P.Ryl.Copt. 460: Conflicting line marker 20; reconstructed line 38 retained
+P.Ryl.Copt. 460: Conflicting line marker 25; reconstructed line 43 retained
+P.Ryl.Copt. 460: Conflicting line marker 30; reconstructed line 48 retained
+P.Ryl.Copt. 460: Conflicting line marker 35; reconstructed line 53 retained
+P.Ryl.Copt. 460: Conflicting line marker 40; reconstructed line 59 retained
+P.Ryl.Copt. 460: Conflicting line marker 45; reconstructed line 64 retained
+P.Ryl.Copt. 413
+Recto ↑.
+1. [.?][ⲁ]ⲛⲁⲕ ⲫⲟⲓⲃⲁⲙⲙⲱⲛ *dipunct* ⲡⲉⲧⲥϩⲉⲓ [.?]
+2. [.?]ⲥⲁⲛ *dipunct* ϩⲙⲡⲁϩⲏⲧ ⲧⲏⲗϥ *dipunct* ⲙⲛ[.?]
+3. [.?]ϣⲱⲡ *dipunct* ⲙⲡⲉⲭϩⲙⲁⲧ *dipunct* ⲙⲛⲡ[.?]
+4. [.?]ⲫ︤ϯ︥ ⲛⲉⲧⲓ ⲡⲉⲕⲃⲉⲕⲏ ⲛⲉⲕ *dipunct* ⲁⲩⲱ̣ [.?]
+5. [.?][ⲧ]ⲁ̣ϩⲁⲕ *dipunct* ⲙⲡⲉⲗⲕⲉⲟⲩ ⲉⲩⲱⲥϥ ⲛ[.?]
+6. [.?][ϣ]ⲁⲧⲉⲡⲙⲁⲟⲩ *dipunct* ⲕⲱⲧⲓ *dipunct* ϩⲛϩⲱ[.?]
+7. [.?][ⲧ]ⲉⲃⲛⲁⲟⲩⲓ *dipunct* ⲉⲧⲃⲁⲗⲧⲉⲓ *dipunct* ⲁⲩⲱ [.?]
+8. [.?]ⲓ *dipunct* ⲙⲡⲉⲛϣ

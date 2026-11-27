@@ -58,3 +58,33 @@ Recto ↑.
 7. [.?]ⲉ̣ⲡⲛⲟⲩⲧⲉ ⲧⲓ ⲡⲛⲧⲱϣ ⲉⲛⲁ̣ⲅ̣ⲁ̣̄⁸ ⲁⲛⲟⲕ ⲇⲉ ⲡⲉ̣
 8. [.?]ⲉϣ̣ⲡⲱⲗⲉϭ ⲡⲣⲱⲥ ⲑⲉ ⲛⲧⲁⲕⲥϩⲁⲓ ⲛⲁⲓ
 9. [.?]ⲡϣⲓⲛⲉ ⲛⲧⲁⲙⲉⲣⲓⲧ ⲛⲙⲁⲁⲩ ϫ̣ⲉ̣ⲥ
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-27T16:29:26 PRylCopt_392-399_2026-11-27.txt
+P.Ryl.Copt. 392: layout=pipe, lines=7
+P.Ryl.Copt. 393: layout=pipe, lines=17
+P.Ryl.Copt. 394: layout=pipe, lines=7
+P.Ryl.Copt. 395: layout=pipe, lines=3
+P.Ryl.Copt. 396: layout=pipe, lines=16
+P.Ryl.Copt. 397: layout=pipe, lines=9
+P.Ryl.Copt. 398: layout=pipe, lines=11
+P.Ryl.Copt. 399: layout=pipe, lines=24
+P.Ryl.Copt. 392
+1. *stauros* ⲥⲩⲑ ϯϣⲓⲛⲉ ⲉⲣⲟⲕ ⲕⲁ
+2. ⲗⲱⲥ ⲉⲣⲉⲡⲟ̄ⲥ̄ ⲕⲁⲁⲕ ⲁⲓϫⲱ
+3. ⲱⲃ ⲉⲣⲟⲕ ϩⲓⲧⲡⲁⲣⲑ¹ ⲉ̣ⲕⲧⲁ
+4. ⲙⲟⲓ ϫⲉⲧⲛⲟⲩ ⲡⲉⲕⲥⲁⲭⲟ̣²
+5. ⲛⲁⲓ ⲧⲁⲉⲣⲧⲉⲕⲁⲡⲟⲕ
+6. ⲣⲁ̣ⲥⲓⲥ ⲗⲟⲓⲡ ϩⲓⲧⲁⲃⲓ
+Recto : part of an Arabic account (earlier), mentioning Fusṭâṭ,
+7. .4
+
+P.Ryl.Copt. 393
+Recto →.
+1. *rho-cross* ϩⲁⲑⲏ ⲙⲛ ϩⲱⲃ ⲛⲓⲙ ⲧⲓϣⲓⲛⲉ ⲉⲡⲁⲥⲟ[ⲛ] [.?]
+2. ⲉ̣ⲡⲓⲇⲏ ⲁⲕⲉⲓ ⲙⲡⲓϩⲟⲟⲩ ⲙⲡⲓϭⲛ ⲑⲉ ⲛ̣[.?]
+3. ⲙⲁⲕ ⲙⲡⲣϭⲱ ⲉⲕⲧⲁⲗⲉ ⲙⲟⲧⲉ ⲉ[ϩⲣⲁⲓ³] [.?]
+4. ⲉⲧⲃⲏⲧ ⲉ

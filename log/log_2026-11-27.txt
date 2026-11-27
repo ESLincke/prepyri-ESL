@@ -27,3 +27,34 @@ Verso ↑.
 8. ⲣⲱⲙⲉ ⲥⲏϩ ⲥⲟⲟⲩ ⲛⲛϥϣⲱⲡⲡ ⲡⲛ̣[.?]
 9. β (ⲉϩⲟⲗⲉⲕ( )) ⲛ̣ⲁ̣ⲥ ⲉⲧⲉϩⲁⲧⲁ̣ⲡ̣ⲯⲩⲭⲏ ⲛ̣[.?]
 10. ⲁⲓⲥϩⲁⲓ νθ κ (ⲉϩⲟⲗⲉ
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-27T15:00:01 PRylCopt_382-391_2026-11-27.txt
+P.Ryl.Copt. 382: layout=pipe, lines=21
+P.Ryl.Copt. 383: layout=pipe, lines=15
+P.Ryl.Copt. 384: layout=pipe, lines=10
+P.Ryl.Copt. 385: layout=pipe, lines=28
+P.Ryl.Copt. 386: layout=pipe, lines=6
+P.Ryl.Copt. 387: layout=pipe, lines=11
+P.Ryl.Copt. 388: layout=pipe, lines=11
+P.Ryl.Copt. 389: layout=pipe, lines=12
+P.Ryl.Copt. 390: layout=pipe, lines=8
+P.Ryl.Copt. 391: layout=pipe, lines=5
+P.Ryl.Copt. 392: layout=pipe, lines=7
+P.Ryl.Copt. 393: layout=pipe, lines=17
+P.Ryl.Copt. 394: layout=pipe, lines=7
+P.Ryl.Copt. 395: layout=pipe, lines=3
+P.Ryl.Copt. 382
+Recto ↑.
+1. [.?].2ⲕⲱ̣ ⲃⲟⲗ ⲉⲡϩⲟ̣ⲓ̣ ϣ̣ⲁⲛⲧⲕⲛ ⲙ̣[.?]
+2. [.?][ⲡ]ⲟⲩⲱϣ ⲙⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ [.?]
+3. [.?]ⲧ̣ⲓ ⲡϣⲓ ⲛⲛⲟ ρ ϩⲓⲡⲇⲁⲓⲙⲟⲥⲓⲟⲛ ⲁ[.?]
+4. [.?]ⲥ̣ⲉⲙⲏⲥ⁷ ⲉⲛⲁⲧⲟⲩⲧⲁⲛⲉ̣ⲕ ⲧⲉϥⲉⲓ ⲉϩⲟⲩⲛ̣[.?]
+5. [.?]ⲛⲡⲁⲙⲉⲣⲓⲧ ⲛϫⲟ̣ⲉⲓⲥ ⲛⲥⲟⲛ ⲥϩⲁⲓ ⲛⲁϥ ⲧϥ̣[.?]
+6. [.?] ⲛⲉⲧⲛⲉⲣⲭⲣⲓⲁ ⲁⲭⲱ ⲉⲓⲟⲩⲏϩ ⲉⲃⲟⲗ ϩⲓⲡⲏⲓ
+7. [.?]ⲉ̣ⲡⲛⲟⲩⲧⲉ ⲧⲓ ⲡⲛⲧⲱϣ ⲉⲛⲁ̣ⲅ̣ⲁ̣̄⁸ ⲁⲛⲟⲕ ⲇⲉ ⲡⲉ̣
+8. [.?]ⲉϣ̣ⲡⲱⲗⲉϭ ⲡⲣⲱⲥ ⲑⲉ ⲛⲧⲁⲕⲥϩⲁⲓ ⲛⲁⲓ
+9. [.?]ⲡϣⲓⲛⲉ ⲛⲧⲁⲙⲉⲣⲓⲧ ⲛⲙⲁⲁⲩ ϫ̣ⲉ̣ⲥ

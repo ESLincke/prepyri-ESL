@@ -1,0 +1,29 @@
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-27T13:34:47 PRylCopt_372-382_2026-11-27.txt
+P.Ryl.Copt. 372: layout=pipe, lines=30
+P.Ryl.Copt. 373: layout=pipe, lines=28
+P.Ryl.Copt. 374: layout=pipe, lines=24
+P.Ryl.Copt. 375: layout=pipe, lines=9
+P.Ryl.Copt. 376: layout=pipe, lines=11
+P.Ryl.Copt. 377: layout=pipe, lines=10
+P.Ryl.Copt. 378: layout=pipe, lines=4
+P.Ryl.Copt. 379: layout=pipe, lines=7
+P.Ryl.Copt. 380: layout=wysiwyg, lines=6
+P.Ryl.Copt. 381: layout=pipe, lines=21
+P.Ryl.Copt. 382: layout=pipe, lines=14
+P.Ryl.Copt. 372
+Verso ↑.
+1. *stauros* ϩⲙⲡⲣⲁⲛ ⲉⲡⲛⲟⲩⲧⲉ ⲛϣⲟⲣⲡ[.?]
+2. ϣⲓⲛⲉ ⲉⲡⲟⲩϫⲁⲓ ⲉⲡⲁⲙⲉⲣⲓⲧ ⲛⲥⲟⲛ ⲉⲧⲧⲁⲓ̄ ⲛ̣ .1[.?]
+3. ⲁⲓⲥϩⲁⲓ ⲡⲉⲓⲥϩⲁⲓ ⲛⲁⲕ ⲙⲡⲟⲟⲩ ⲡⲁⲓ ⲥⲱ ιζ [.?]
+4. ⲙⲉ̣ⲥⲁⲛⲁⲓ ⲁⲓⲥϩⲁⲓ ⲕⲓⲥⲏⲛⲧⲉ¹ ⲛ̣ⲥϩⲁⲓ ⲛⲁⲕ [.?]
+5. ⲛⲉⲧϩⲓⲱⲟⲩ ⲁⲩⲱ ⲟⲩⲥϩⲁⲓ ⲡⲁ̣ⲡⲉⲕ[.?]
+6. ⲡⲉ ⲅⲁⲃⲣⲓⲏⲗ ⲧⲁⲕⲥϩⲁⲓⲉ̣ⲃ ⲁⲓⲛ̣[.?]
+7. ⲁⲕⲁⲁⲥ ⲓ̣ⲉⲧⲉϩⲁⲧⲏⲕ ⲁⲓⲧⲏ̣ⲡⲟⲟⲩ [.?]
+8. ⲣⲱⲙⲉ ⲥⲏϩ ⲥⲟⲟⲩ ⲛⲛϥϣⲱⲡⲡ ⲡⲛ̣[.?]
+9. β (ⲉϩⲟⲗⲉⲕ( )) ⲛ̣ⲁ̣ⲥ ⲉⲧⲉϩⲁⲧⲁ̣ⲡ̣ⲯⲩⲭⲏ ⲛ̣[.?]
+10. ⲁⲓⲥϩⲁⲓ νθ κ (ⲉϩⲟⲗⲉ

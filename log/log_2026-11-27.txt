@@ -88,3 +88,27 @@ Recto →.
 2. ⲉ̣ⲡⲓⲇⲏ ⲁⲕⲉⲓ ⲙⲡⲓϩⲟⲟⲩ ⲙⲡⲓϭⲛ ⲑⲉ ⲛ̣[.?]
 3. ⲙⲁⲕ ⲙⲡⲣϭⲱ ⲉⲕⲧⲁⲗⲉ ⲙⲟⲧⲉ ⲉ[ϩⲣⲁⲓ³] [.?]
 4. ⲉⲧⲃⲏⲧ ⲉ
+
+Current Version:
+	0.2.0-beta Pre-Papyri with extension Prep-Ryli
+	19/11/2026
+	Corvin Ziegeler & Eliese-Sophia Lincke
+2026-11-27T16:45:04 PRylCopt_400-406_2026-11-27.txt
+P.Ryl.Copt. 400: layout=pipe, lines=10
+P.Ryl.Copt. 401: layout=pipe, lines=7
+P.Ryl.Copt. 402: layout=pipe, lines=4
+P.Ryl.Copt. 403: layout=pipe, lines=6
+P.Ryl.Copt. 404: layout=pipe, lines=7
+P.Ryl.Copt. 405: layout=pipe, lines=4
+P.Ryl.Copt. 406: layout=pipe, lines=3
+P.Ryl.Copt. 400
+Recto ↑.
+1. [.?]ⲙⲁⲕⲁⲣⲉ ⲉⲓⲥϩⲁⲓ
+2. [.?]ⲧ̣ⲛⲉ ⲙⲛⲙⲁⲕⲣⲉ
+3. [.?][ⲥ]ⲧⲁⲩⲣⲱⲩ ⲙⲛⲡⲉⲩϫⲁⲓ
+4. [.11]ⲟⲩ ⲉⲃⲟ[ⲗ].3 ⲉⲡⲛⲟⲩⲧⲉ ϫⲛⲧⲁⲙⲁⲕⲁ
+5. ⲣ[ⲉ].9 ⲉⲕⲟⲩ.5 ϭⲟⲩⲛⲉ ϫⲟⲟⲩ ϩⲁⲗⲟ
+6. ⲕⲟ[ⲧ] .7 ⲏⲥ ⲁⲩ.5 ⲉϣⲡⲏⲣⲉ ⲧⲁⲓⲥⲁⲏ ⲛⲓⲱ̣¹
+7. ϫⲉⲡ̣.2 ⲛⲁⲛⲓⲭⲉ .3 ⲉⲣⲡⲉ ⲉⲥⲟ [ⲛ]ⲧⲓϩⲏ ⲁⲩⲉⲓ ⲉⲓⲣⲏ̣ⲥ ⲉⲧⲃⲉ ⲡⲛ[ⲟⲩ]ⲧⲉ ⲉⲡⲓ ⲉ̣ⲓ̣.1 ⲉⲛⲛⲓⲕⲟⲩⲓ ϣ[ⲏ]ⲣⲉ ⲁⲛⲛⲉ ϣⲁⲓⲧⲉⲧⲙ̣ⲥ
+8. ⲱⲙⲟ̣.2 ϩⲛⲧⲉⲧⲛ[ⲙⲏ]ⲧⲉ ⲛϩⲟⲓ̣ⲓⲛⲕ.1 ⲧⲛⲏⲓ² ⲁⲩⲱ ⲉⲧϣⲁⲛϣⲓⲛⲉ
+9. [.8] ϣⲏⲣⲉ ⲧⲓ ⲡϩ.2ⲥⲟⲥ ⲛⲁⲩ ⲁⲩⲱ ⲙⲁⲛⲟⲩⲣⲡ
